@@ -1,0 +1,39 @@
+.content-grup{
+    height: 90vh;
+    margin: 2.4% 0;
+}
+
+.container-bus{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.content-grup-one{
+    align-items: center;
+    display: block;
+    width: 100%;
+}
+
+.grup-two{
+    color: black;
+    margin: 0 0 0 10%;
+    align-items: center;
+    display: block;
+    width: 80%;
+}
+
+.grup-one{
+    color: black;
+    align-items: center;
+    margin: 0 0 0 10%;
+    display: block;
+    width: 80%;
+}
+
+.content-grup-two{
+    align-items: center;
+    display: block;
+    width: 80%;
+}
